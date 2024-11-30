@@ -1,0 +1,10 @@
+Color Palette:
+
+
+#243642
+#387478
+#629584
+#E2F1E7
+#D1E4D8
+#EEF6F1
+#ABABAB
