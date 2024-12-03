@@ -30,7 +30,7 @@ The Flux Admin Dashboard provides robust tools and a visually appealing interfac
 https://github.com/user-attachments/assets/7870b8ea-d875-4d82-af6a-caa7b6fa7b93
 
 
-#### Explore the application post on LinkedIn: <a target="_blank" href="*************"> Click Here. </a>
+#### Explore the application post on LinkedIn: <a target="_blank" href="https://www.linkedin.com/posts/theahmedhany_dart-mobileappdevelopment-flutterdevelopers-activity-7269640040668954625-pJrT?utm_source=share&utm_medium=member_desktop"> Click Here. </a>
 
 -----
 

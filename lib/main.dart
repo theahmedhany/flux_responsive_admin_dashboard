@@ -3,10 +3,12 @@ import 'package:flutter/material.dart';
 import 'package:flux_responsive_admin_dashboard/views/dashboard_view.dart';
 
 void main() {
-  runApp(DevicePreview(
-    enabled: false,
-    builder: (context) => const ResponsiveDashBoard(),
-  ));
+  runApp(
+    DevicePreview(
+      enabled: false,
+      builder: (context) => const ResponsiveDashBoard(),
+    ),
+  );
 }
 
 class ResponsiveDashBoard extends StatelessWidget {
